@@ -59,6 +59,3 @@ func azure functionapp publish <NOME_DA_APP>
 - O validador remove caracteres não numéricos antes da verificação.
 - Sequências com todos os dígitos iguais (exceto a sequência especial `00000000000`) são consideradas inválidas.
 
----
-
-Se quiser, eu faço o commit/push do README e atualizo o `README.md` com instruções adicionais (ex.: variáveis de ambiente, exemplos de testes). 
